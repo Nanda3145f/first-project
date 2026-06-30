@@ -1,2 +1,2 @@
-# first-project
-some details about github
+This project is about git exercise
+on java lang
